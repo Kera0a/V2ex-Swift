@@ -18,7 +18,7 @@ $ git clone https://github.com/Finb/V2ex-Swift.git
 ```
 $ open "V2ex-Swift.xcworkspace"
 ```
-3) Compile and run the app in your simulator
+3) Compile and run the app in your simulator or iOS device
 
 ##Requirements
 * Xcode 7.2+
